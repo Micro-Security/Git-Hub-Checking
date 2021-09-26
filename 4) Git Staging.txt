@@ -1,0 +1,4 @@
+Adding untracked file to staging area:-
+
+$ git add <FILE NAME>
+$ git add -A   --> This is add all files in the directory

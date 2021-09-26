@@ -1,0 +1,3 @@
+This initialises you repo on the same folder where you run the command
+
+$ git init

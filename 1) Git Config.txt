@@ -1,0 +1,8 @@
+Show which changes is done by whoam:-
+
+$ git config --global user.name <NAME>
+$ git config --global user.email <EMAIL>
+
+Checking User Name and Email:-
+$ git config --global user.name
+$ git config --global user.email
