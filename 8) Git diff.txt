@@ -1,3 +1,4 @@
-This will compaire the staging area with working tree files:-
+This will compaire the working tree files with staging area:-
 
 $ git diff
+$ git diff --staged    --> Will compaire the staging area with last commit

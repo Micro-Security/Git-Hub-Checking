@@ -1,0 +1,4 @@
+This will remove a file:-
+
+$ git rm <FILE NAME>     -> Remove from staging area as well as from working tree (disk)
+$ git rm --cached <FILE NAME>    -> Remove from staging area only

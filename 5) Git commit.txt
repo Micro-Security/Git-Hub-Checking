@@ -1,3 +1,4 @@
 This will save your changes and mark it as unmodified
 
 $ git commit -m "COMMIT MESSAGE"
+$ git commit -a -m "SKIP STAGING AREA"    (Add first and then after tracking use this)
