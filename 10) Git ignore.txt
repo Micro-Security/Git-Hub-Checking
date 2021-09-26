@@ -6,3 +6,4 @@ log.txt
 api.txt
 .env
 *.log
+thisFolder/

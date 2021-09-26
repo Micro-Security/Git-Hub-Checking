@@ -1,0 +1,12 @@
+$ git remote add origin https://github.com/USER_NAME/Repo.git   --> we can use origin for link
+$ git remote   --> Shows remote repos
+$ git remote -v    --> Will show you the link also
+$ git push <REMOTE_REPO> <BRANCH_NAME>   --> will push the branch to remote repo
+        $ git push origin master
+
+
+GENERATE new ssh key:-
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+$ eval "$(ssh-agent -s)"
+$ ssh-add ~/.ssh/id_ed25519
+

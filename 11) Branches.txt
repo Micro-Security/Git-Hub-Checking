@@ -1,0 +1,7 @@
+This way you can create a copy of a project and modify without messing up with the main code
+
+$ git branch NewBranch   ---> Adds a new branch
+$ git branch     ---> Shows all branches
+$ git checout <Branch Name>    ---> Change to another branch
+$ git merge NewBranch   --> Will merge it with Master branch
+$ git checkout -b AnotherNewBranch    --> will make a new branch and switch to it
