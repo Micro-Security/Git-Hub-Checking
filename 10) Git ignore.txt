@@ -1,0 +1,8 @@
+This will ignore the files of directories which are present in this file:-
+
+
+log.txt
+/bingo/pass.txt
+api.txt
+.env
+*.log

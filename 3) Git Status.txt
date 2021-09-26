@@ -1,6 +1,7 @@
 This shows all branches, commits to be done and untracked files
 
 $ git status
+$ git status -s    -> Will show a summarized form of status
 
 Red color files: Untracked files
 Green Color files: Files presented in staging area
