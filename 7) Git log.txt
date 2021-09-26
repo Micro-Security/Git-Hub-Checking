@@ -1,0 +1,5 @@
+This will tell you what is commited by whoam and when and also with which message:-
+
+$ git log
+$ git log -p -<COMITS YOU WANA SEE>   --> Last commits SEE
+    $ git log -p -10     --> Last 10 commits will be shown with all the changes user did
