@@ -7,4 +7,4 @@ Checking User Name and Email:-
 $ git config --global user.name
 $ git config --global user.email
 
-This
+This is
